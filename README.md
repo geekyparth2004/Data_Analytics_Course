@@ -34,12 +34,19 @@ The course is organized into daily modules, each focusing on a specific aspect o
 MODULE 1 - PYTHON
 Day 1: BASICS 
 Setting up the environment
+
 Day 2: OPERATORS 
+
 Day 3: LOOPS
+
 Day 4: STRING
+
 Day 5: LIST
+
 Day 6: TUPLE
+
 Day 7: DICTIONARY 
+
 DAY 8: SET
 
 
