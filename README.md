@@ -49,6 +49,8 @@ Day 7: DICTIONARY
 
 DAY 8: SET
 
+DAY 9: FUNCTIONS, Modules
+
 
 Follow these steps to set up your environment:
 
