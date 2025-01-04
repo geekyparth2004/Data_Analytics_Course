@@ -32,6 +32,7 @@ Course Structure
 The course is organized into daily modules, each focusing on a specific aspect of data analytics.
 
 MODULE 1 - PYTHON
+
 Day 1: BASICS 
 Setting up the environment
 
@@ -51,6 +52,11 @@ DAY 8: SET
 
 DAY 9: FUNCTIONS, Modules
 
+DAY 9 : MINI PROJECT - 1 
+
+MODULE - 2  ADVANCED PYTHON 
+
+DAY - 10: INTRO TO NUMPY 
 
 Follow these steps to set up your environment:
 
