@@ -58,6 +58,8 @@ MODULE - 2  ADVANCED PYTHON
 
 DAY - 10: INTRO TO NUMPY 
 
+DAY - 11: ADVANCED NUMPY METHODS 
+
 Follow these steps to set up your environment:
 
 Clone the repository:
