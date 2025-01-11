@@ -1,4 +1,2 @@
-def sub(x,y):
+def diff(x,y):
     print(x-y)
-    
-    

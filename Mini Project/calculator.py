@@ -12,7 +12,7 @@ c = int(input("Enter the number:"))
         
 def calculator(x,y,c):
     if(c==1): return addition.add(x,y)
-    elif(c==2): return subtraction.sub(x,y)
+    elif(c==2): return subtraction.diff(x,y)
     elif(c==3): return multiplication.mul(x,y)
     elif(c==4): return division.div(x,y)
     else : return "Invalid Value"
