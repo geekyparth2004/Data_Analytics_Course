@@ -60,6 +60,8 @@ DAY - 10: INTRO TO NUMPY
 
 DAY - 11: ADVANCED NUMPY METHODS 
 
+DAY - 12: INTRO TO PANDAS AND THEIR MAIN FUNCTIONS
+
 Follow these steps to set up your environment:
 
 Clone the repository:
