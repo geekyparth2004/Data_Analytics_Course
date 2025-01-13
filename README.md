@@ -62,6 +62,8 @@ DAY - 11: ADVANCED NUMPY METHODS
 
 DAY - 12: INTRO TO PANDAS AND THEIR MAIN FUNCTIONS
 
+DAY - 13 PANDAS JOINS AND MERGES
+
 Follow these steps to set up your environment:
 
 Clone the repository:
