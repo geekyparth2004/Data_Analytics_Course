@@ -64,12 +64,15 @@ DAY - 12: INTRO TO PANDAS AND THEIR MAIN FUNCTIONS
 
 DAY - 13: PANDAS JOINS AND MERGES
 
-DAY - 14: PIVOT AND MELTING AND INTRO TO MATPLOTIB
+DAY - 14: PIVOT AND MELTING AND INTRO TO MATPLOTLIB
+
+DAY - 15: DIFFERENT TYPES OF PLOTTING TECHNIQUES USING MATPLOTLIB
+
 
 Follow these steps to set up your environment:
 
 Clone the repository:
-git clone https://github.com/yourusername/data-analytics-course.git
+git clone https://github.com/geekyparth2004/data-analytics-course.git
 Navigate to the course directory:
 cd data-analytics-course
 Create a virtual environment (optional but recommended):
